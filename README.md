@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suryakanta Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="i'm coding" width= "500" src="https://github.com/surya-situ/surya-situ/blob/main/readme.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-situ&label=Profile%20views&color=0e75b6&style=flat" alt="surya-situ" /> </p>
 
