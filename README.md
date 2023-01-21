@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-situ&label=Profile%20views&color=0e75b6&style=flat" alt="surya-situ" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/surya_situ" target="blank"><img src="https://img.shields.io/twitter/follow/surya_situ?logo=twitter&style=for-the-badge" alt="surya_situ" /></a> </p>
-
 - 🌱 I’m currently learning **React, node, express**
 
 - 💬 Ask me about **JavaScript, Html, css, React**
