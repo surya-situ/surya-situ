@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-situ&label=Profile%20views&color=0e75b6&style=flat" alt="surya-situ" /> </p>
 
 
-- 🌱 I’m currently learning **React, node, express**
+- 🌱 I’m currently learning **React, Redux, node, express**
 
-- 💬 Ask me about **JavaScript, Html, css, React**
+- 💬 Ask me about **JavaScript, Html, css, React,Tailwind css, Mysql**
 
 - 📫 Reach me **suryasocial55@gmail.com**
 
