@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryakanta Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer from India</h3>
 
 <img align="right" alt="i'm coding" width= "450" src="https://github.com/surya-situ/surya-situ/blob/main/readme.gif" />
 
