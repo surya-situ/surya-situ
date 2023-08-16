@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-situ&label=Profile%20views&color=0e75b6&style=flat" alt="surya-situ" /> </p>
 
 
-- 🌱 I’m currently learning **React, Redux, node, express**
+- 🌱 I’m currently learning **docker, kubernetees, terraform, jenkins**
 
 - 💬 Ask me about **JavaScript, Html, css, React,redux-toolkit, node, expressJs, Tailwind css, Mysql, mongoDb, docker **
 
