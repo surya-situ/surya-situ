@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Redux, node, express**
 
-- 💬 Ask me about **JavaScript, Html, css, React,Tailwind css, Mysql**
+- 💬 Ask me about **JavaScript, Html, css, React,redux-toolkit, node, expressJs, Tailwind css, Mysql, mongoDb, docker **
 
 - 📫 Reach me **suryasocial55@gmail.com**
 
