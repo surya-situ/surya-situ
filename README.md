@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryakanta Das</h1>
-<h3 align="center">React & react-native developer from Bharat</h3>
+<h3 align="center">Full stack developer</h3>
 
 <img align="right" alt="i'm coding" width= "450" src="https://github.com/surya-situ/surya-situ/blob/main/readme.gif" />
 
@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-situ&label=Profile%20views&color=0e75b6&style=flat" alt="surya-situ" /> </p>
 
 
-- 🌱 I’m currently learning **node js, express js, mongoDB**
+- 🌱 I’m currently learning **Web3, solona, ETH, Blockchain**
 
-- 💬 Ask me about **JavaScript, Html, css, React, react-native ,redux-toolkit, Tailwind css  **
+- 💬 Ask me about **JavaScript, TypeScript, React, Nextjs, Nodejs, Expressjs, react-native ,redux-toolkit, Serverless  **
 
-- 📫 Reach me **suryasocial55@gmail.com**
+- 📫 Reach me **iamdassuryakanta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
