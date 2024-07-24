@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-situ&label=Profile%20views&color=0e75b6&style=flat" alt="surya-situ" /> </p>
 
 
-- 🌱 I’m currently learning **Web3, solona, ETH, Blockchain**
+- 🌱 I’m currently learning **Web3, solana, ETH, Blockchain, Etherjs**
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Nextjs, Nodejs, Expressjs, Hono, PostgresSql, Prisma, MongoDB, mongoose, cloudflare, react-native ,redux-toolkit, Serverless  **
 
