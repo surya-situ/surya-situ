@@ -76,6 +76,9 @@
   <a href="https://www.serverless.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="serverless" width="40" height="40"/> 
   </a> 
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/cloudflare.svg" alt="cloudflare" width="40" height="40"/> 
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
