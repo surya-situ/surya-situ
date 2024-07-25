@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/js_redux/index.html&backText=Return+to+VectorLogoZone" alt="redux-toolkit" width="40" height="40"/> 
+    <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux-toolkit" width="40" height="40"/> 
   </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
