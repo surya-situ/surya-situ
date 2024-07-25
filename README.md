@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/prisma/prisma/main/.github/readme/hero.svg" alt="prisma" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/89a95757aed9a585f6f5256baa96f989b89a061c/icons/file_type_light_prisma.svg" alt="prisma" width="40" height="40"/> 
   </a> 
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/> 
