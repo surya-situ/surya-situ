@@ -2,13 +2,18 @@
 <h3 align="center">Full stack developer</h3>
 <img align="right" alt="i'm coding" width= "450" src="https://github.com/surya-situ/surya-situ/blob/main/readme.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-situ&label=Profile%20views&color=0e75b6&style=flat" alt="surya-situ" /> </p>
-- 🌱 I’m currently learning **Web3, solana, ETH, Blockchain, Etherjs**
-- 💬 Ask me about **JavaScript, TypeScript, React, Nextjs, Nodejs, Expressjs, Hono, PostgresSql, Prisma, MongoDB, mongoose, cloudflare, react-native ,redux-toolkit, Serverless  **
-- 📫 Reach me **iamdassuryakanta@gmail.com**
+
+<p align="left"> - 🌱 I’m currently learning **Web3, solana, ETH, Blockchain, Etherjs** </p>
+<p align="left"> - 💬 Ask me about **JavaScript, TypeScript, React, Nextjs, Nodejs, Expressjs, Hono, PostgresSql, Prisma, MongoDB, mongoose, cloudflare, react-native ,redux-toolkit, Serverless  ** </p>
+<p align="left"> - 📫 Reach me **iamdassuryakanta@gmail.com** </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surya_situ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surya_situ" height="30" width="40" /></a>
 </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -49,7 +54,6 @@
   </a> 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/prisma/prisma/main/.github/readme/hero.svg" alt="prisma" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/prisma/prisma/main/.github/logo.svg" alt="prisma" width="40" height="40"/> 
   </a> 
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/> 
