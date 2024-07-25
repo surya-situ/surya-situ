@@ -5,7 +5,7 @@
 
 <p align="left"> - 🌱 I’m currently learning **Web3, solana, ETH, Blockchain, Etherjs** </p>
 <p align="left"> - 💬 Ask me about **JavaScript, TypeScript, React, Nextjs, Nodejs, Expressjs, Hono, PostgresSql, Prisma, MongoDB, mongoose, cloudflare, react-native ,redux-toolkit, Serverless  ** </p>
-<p align="left"> - 📫 Reach me **iamdassuryakanta@gmail.com** </p>
+<p align="left"> - 📫 Reach me <a href="iamdassuryakanta@gmail.com">**iamdassuryakanta@gmail.com</a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
