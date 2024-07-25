@@ -31,9 +31,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux-toolkit" width="40" height="40"/> 
-  </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
@@ -66,6 +63,9 @@
   </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/redis/redis-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/redis/index.html&backText=Return+to+VectorLogoZone" alt="redis" width="40" height="40"/> 
   </a> 
   <a href="https://www.serverless.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="serverless" width="40" height="40"/> 
